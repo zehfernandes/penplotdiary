@@ -1,0 +1,15 @@
+{
+  "name": "dayone-plotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeh Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "penplot": "^2.0.0",
+    "random-js": "^1.0.8"
+  }
+}
