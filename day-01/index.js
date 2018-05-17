@@ -40,6 +40,7 @@ export default function createPlot(context, dimensions) {
     } else {
       shape = _translateDotsX(shape, 1);
       shape = random.shuffle(shape);
+      shape[shape.length] = shape[0]
     }
 
     lines.push(shape);
